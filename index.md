@@ -15,10 +15,10 @@
   * Security Architecture and Awareness
   * Planning, naming schemes, building queries, and automation
 
-**Stuff I'm hip to, but not good enough to get paid for yet**
+**Stuff I'm hip to, but not enough to get paid for yet**
 
   * Python scripting
-  * AWS and Azure hosted services
+  * AWS and Azure cloud services
   * Basic database maintenance
   * Getting used to using git for too many things
   * Docker Containers
