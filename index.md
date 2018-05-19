@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="face-stipple-circle.png" alt="A bunch of green dots." height="180" width="180">
-  <h3>Marc Doughty</h3>
-</p>
-
+<table>
+<tbody>
+<tr>
+<td ><img src="face-stipple-circle.png" alt="A bunch of green dots." width="180" height="180" /></td>
+<td>
+<h3>Marc Doughty</h3>
+<p><strong><a href="mailto:marc@doughtyhouse.com">marc@doughtyhouse.com</a></strong></p>
+<p><strong>401-440-9340</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Expert Skills
 
