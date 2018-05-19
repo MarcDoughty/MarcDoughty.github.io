@@ -1,4 +1,4 @@
-<table>
+<table border="0">
 <tbody>
 <tr>
 <td ><img src="face-stipple-circle.png" alt="A bunch of green dots." width="180" height="180" /></td>
