@@ -1,10 +1,6 @@
-![](face-stipple-circle.png "A bunch of green dots." =180x180)
-
-### Marc Doughty
-
 <p align="center">
-  <b>Marc Doughty</b><br>
   <img src="face-stipple-circle.png" alt="A bunch of green dots." height="180" width="180">
+  <h3>Marc Doughty</h3>
 </p>
 
 
