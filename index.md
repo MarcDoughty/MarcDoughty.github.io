@@ -1,3 +1,8 @@
+![I am a bunch of green dots.](face-stipple-circle.png "Marc Doughty")
+
+### Marc Doughty
+
+
 ### Expert Skills
 
   * Windows, Windows Server, macOS, and Linux
