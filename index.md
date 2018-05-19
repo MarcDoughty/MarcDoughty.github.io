@@ -40,7 +40,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/en/3/31/Brown_University_coat_of_arms.svg" alt="" width="100" height="170" />&nbsp;</td>
+<td><img src="/images/brown.svg" alt="" width="100" height="170" />&nbsp;</td>
 <td>
 <p>SENIOR ENDPOINT ENGINEER&nbsp;(JAN 2008 &ndash; PRESENT)</p>
 <p>BROWN UNIVERSITY, PROVIDENCE, RI</p>
@@ -53,7 +53,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/en/2/28/Milton_Academy_Seal.jpg" alt="" width="100" height="100" />&nbsp;</td>
+<td><img src="/images/milton.jpg" alt="" width="100" height="100" />&nbsp;</td>
 <td>
 <p><strong>SENIOR DESKTOP SUPPORT ANALYST&nbsp;(NOV 2003 - JAN 2008)</strong></p>
 <p><strong>MILTON ACADEMY, MILTON, MA</strong></p>
@@ -65,7 +65,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="http://www.logicadesign.com/files/gimgs/86_unicom-logo.jpg" alt="" width="100" height="75" /></td>
+<td><img src="/images/unicom.jpg" alt="" width="100" height="75" /></td>
 <td>
 <p><strong>LEAD FIELD TECHNICIAN</strong></p>
 <p><strong>UNICOM - Woonsocket, RI -&nbsp;(AUG 2002 - NOV 2003)</strong></p>
@@ -77,7 +77,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Boy_Scouts_of_America_corporate_trademark.svg" alt="" width="100" height="115" /></td>
+<td><img src="/images/scouts.svg" alt="" width="100" height="115" /></td>
 <td>
 <p>Eagle Scout</p>
 <p>Troop 28 - Providence, RI - (1998)</p>
