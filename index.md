@@ -40,7 +40,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="/images/brown.svg" alt="" width="100" height="170" />&nbsp;</td>
+<td><img src="/images/brown.svg" alt="" width="100" height="170" /></td>
 <td>
 <p>SENIOR ENDPOINT ENGINEER&nbsp;(JAN 2008 &ndash; PRESENT)</p>
 <p>BROWN UNIVERSITY, PROVIDENCE, RI</p>
@@ -53,7 +53,7 @@
 <table>
 <tbody>
 <tr>
-<td><img src="/images/milton.jpg" alt="" width="100" height="100" />&nbsp;</td>
+<td><img src="/images/milton.jpg" alt="" width="100" height="100" /></td>
 <td>
 <p><strong>SENIOR DESKTOP SUPPORT ANALYST&nbsp;(NOV 2003 - JAN 2008)</strong></p>
 <p><strong>MILTON ACADEMY, MILTON, MA</strong></p>
