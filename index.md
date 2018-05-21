@@ -42,10 +42,9 @@
 <tr>
 <td><img src="/images/brown.png" width="100" height="170"></td>
 <td>
-<p>SENIOR ENDPOINT ENGINEER&nbsp;(JAN 2008 &ndash; PRESENT)</p>
+<p>SENIOR ENDPOINT ENGINEER (JAN 2008 - PRESENT)</p>
 <p>BROWN UNIVERSITY, PROVIDENCE, RI</p>
 <p>Planned and implemented centralized Departmental Storage, Home Folders, Folder Redirection, Print Services, and Operating System Deployment (WDS, MDT, and OSD). Architected GPU-enabled RemoteApp platform to replace traditional VDI. Performed top-tier support for 40+ IT Professionals. Wrote various PowerShell scripts to automate systems administration tasks. Packaged and deployed hundreds of software titles (SCCM and standalone). Worked with departments to centralize services. Introduced virtualization and DevOps-style methods to the Endpoint and QA Teams. Served on Staff Alliance, Security Rountable, and Emerging Technology committees. Recipient of two Staff Excellence Awards.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -56,7 +55,7 @@
 <tr>
 <td><img src="/images/milton.png" width="100" height="100"></td>
 <td>
-<p><strong>SENIOR DESKTOP SUPPORT ANALYST&nbsp;(NOV 2003 - JAN 2008)</strong></p>
+<p><strong>SENIOR DESKTOP SUPPORT ANALYST (NOV 2003 - JAN 2008)</strong></p>
 <p><strong>MILTON ACADEMY, MILTON, MA</strong></p>
 <p>Provided all levels of support. Reduced number of images from 26 to 3. Responsible for hardware specifications purchasing. Acted as liaison between Network, Server, and Desktop teams. Administered file, print, wiki, and streaming media servers. Transitioned school from &lsquo;everyone is an administrator&rsquo; to &lsquo;restricted user&rsquo; desktop environment to improve security.</p>
 </td>
@@ -70,7 +69,7 @@
 <td><img src="/images/unicom.png" width="100" height="75"></td>
 <td>
 <p><strong>LEAD FIELD TECHNICIAN</strong></p>
-<p><strong>UNICOM - Woonsocket, RI -&nbsp;(AUG 2002 - NOV 2003)</strong></p>
+<p><strong>UNICOM - Woonsocket, RI - Aug 2002-Nov 2003</strong></p>
 <p>Supported executives, marketing team, and remote workers for a major regional bank. Team leader on several mid-sized rollouts (50-500 machines). Performed emergency server repair. Traveled extensively and led teams of technicians. Worked with customers to master software images, streamline procedures, and diagnose network problems.</p>
 </td>
 </tr>
