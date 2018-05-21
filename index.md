@@ -1,4 +1,5 @@
 ![I am a bunch of green dots](\images\face-stipple-circle.png)
+
 **[marc@doughtyhouse.com](mailto:marc+githubresume@doughtyhouse.com)**
 
 ### EXPERT SKILLS
