@@ -26,6 +26,12 @@
   * Basic database maintenance
   * Getting used to using git for too many things
   * Docker Containers
+  
+**Certifications**
+  * JAMF Certified Tech
+  * Microsoft Certified Professional
+  * Apple Certified Technician
+  * A+ Certified Technician
 
 ### EXPERIENCE
 **Senior Endpoint Engineer (Jan 2008 - Present)**
