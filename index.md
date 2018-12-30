@@ -38,7 +38,7 @@
 
 **Brown University - Providence, RI**
 
-Planned and implemented centralized Departmental Storage, Home Folders, Folder Redirection, Endpoint Encryption, Print Services, and Operating System Deployment (WDS, MDT, and OSD). Architected GPU-enabled RemoteApp platform to replace traditional VDI. Performed top-tier support for 40+ IT Professionals in administration, research, and teaching roles. Wrote various PowerShell scripts to automate systems administration tasks. Packaged and deployed hundreds of software titles (SCCM and standalone). Worked with departments to centralize services. Introduced virtualization and DevOps-style methods to the Endpoint and QA Teams. Served on Staff Alliance, Security Rountable, and Emerging Technology committees. Rare recipient of two Staff Excellence Awards.
+Planned and implemented centralized Departmental Storage, Home Folders, Folder Redirection, Endpoint Encryption, Print Services, and Operating System Deployment (WDS, MDT, and OSD). Architected GPU-enabled RemoteApp platform to replace traditional VDI. Performed top-tier support for 40+ IT Professionals in administration, research, and teaching roles. Wrote various PowerShell scripts to automate systems administration tasks. Packaged and deployed hundreds of software titles (SCCM and standalone). Worked with departments to centralize services. Introduced virtualization and DevOps-style methods to the Endpoint and QA Teams. Served on Staff Alliance, Security Roundtable, and Emerging Technology committees. Rare recipient of two Staff Excellence Awards.
 
 
 **Senior Desktop Support Analyst (Nov 2003 - Jan 2008)**
