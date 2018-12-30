@@ -59,4 +59,4 @@ Supported executives, marketing team, and remote workers for a major regional ba
 
 **Troop 28 - Providence, RI**
 
-Served as Senior Patrol Leader, the most senior scout in the troop. Troop 28 was one of the first in the nation to spurn national policy and accept openly gay scouts.
+Served as Senior Patrol Leader, the most senior scout in the troop. During this time, Troop 28 was the first in the nation to spurn national policy and accept openly gay scouts.
