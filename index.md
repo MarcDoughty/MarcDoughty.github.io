@@ -15,7 +15,7 @@
   * CIFS/SMB and NFS file services
   * Endpoint and Datacenter Hardware
   * Networking technologies and traffic management
-  * Packet/Network analysis (Wireshark and NMAP)
+  * Endpoint and Network forensics (log analysis, Wireshark, NMAP, Magnet Axiom, and hardware aspects thereof)
   * Security Architecture and Awareness
   * Policy development
   * Planning, naming schemes, building queries, and automation
