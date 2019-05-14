@@ -12,19 +12,21 @@
   * MDT and OSD
   * VDI, RemoteApp, VNC, SSH, and X11
   * PowerShell and BASH scripting
-  * CIFS/SMB and NFS
+  * CIFS/SMB and NFS file services
   * Endpoint and Datacenter Hardware
   * Networking technologies and traffic management
   * Packet/Network analysis (Wireshark and NMAP)
   * Security Architecture and Awareness
+  * Policy development
   * Planning, naming schemes, building queries, and automation
 
 **Stuff I'm hip to, but still training-up on**
 
   * Python scripting
+  * JAMF macos and iOS management
   * AWS and Azure cloud services
-  * Basic database maintenance
-  * Getting used to using git for too many things
+  * Basic database maintenance and operations
+  * Revision control systems (this resume is sourced in git)
   * Docker Containers
   
 **Certifications**
@@ -38,7 +40,7 @@
 
 **Brown University - Providence, RI**
 
-Planned and implemented centralized Departmental Storage, Home Folders, Folder Redirection, Endpoint Encryption, Print Services, and Operating System Deployment (WDS, MDT, and OSD). Architected GPU-enabled RemoteApp platform to replace traditional VDI. Performed top-tier support for 40+ IT Professionals serving 6,000+ endpoint systems in administration, research, and teaching roles. Wrote various PowerShell scripts to automate systems administration tasks. Packaged and deployed hundreds of software titles (SCCM and standalone). Worked with departments to centralize services. Introduced virtualization and DevOps-style methods to the Endpoint and QA Teams. Served on Staff Alliance, Security Roundtable, and Emerging Technology committees. Rare recipient of two Staff Excellence Awards.
+Planned and implemented centralized Departmental Storage, Home Folders, Folder Redirection, Endpoint Encryption, Print Services, and Operating System Deployment (WDS, MDT, and OSD). Architected GPU-enabled RemoteApp platform to replace traditional VDI. Performed top-tier support for 40+ IT Professionals serving 6,000+ endpoint systems in administration, research, and teaching roles. Wrote various PowerShell scripts to automate systems administration tasks. Packaged and deployed hundreds of software titles (SCCM and standalone). Worked with departments to centralize and secure services. Introduced virtualization and DevOps-style methods to the Endpoint and QA Teams. Served on Staff Alliance, Security Roundtable, and Emerging Technology committees. Recipient of two Staff Excellence Awards.
 
 
 **Senior Desktop Support Analyst (Nov 2003 - Jan 2008)**
