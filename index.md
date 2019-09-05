@@ -36,7 +36,15 @@
   * A+ Certified Technician
 
 ### EXPERIENCE
-**Senior Endpoint Engineer (Jan 2008 - Present)**
+
+**Information Security Engineer (Jun 2019 - Present)**
+
+**Brown University - Providence, RI**
+
+More soon...
+
+
+**Senior Endpoint Engineer (Jan 2008 - Jun 2019)**
 
 **Brown University - Providence, RI**
 
